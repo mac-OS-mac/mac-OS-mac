@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mac-OS-mac
 - 👀 I’m interested in coding projects
-- 🌱 I’m currently learning python.....ie machine learnimg
+- 🌱 I’m a Data Scientist
 - 💞️ I’m looking to collaborate on doing projects
 - 📫 How to reach me markngige001@gmail.com
 
